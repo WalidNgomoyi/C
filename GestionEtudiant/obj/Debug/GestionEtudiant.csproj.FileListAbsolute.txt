@@ -1,0 +1,9 @@
+c:\Users\user\source\repos\Liage3\GestionEtudiant\bin\Debug\GestionEtudiant.exe.config
+c:\Users\user\source\repos\Liage3\GestionEtudiant\bin\Debug\GestionEtudiant.exe
+c:\Users\user\source\repos\Liage3\GestionEtudiant\bin\Debug\GestionEtudiant.pdb
+c:\Users\user\source\repos\Liage3\GestionEtudiant\obj\Debug\GestionEtudiant.csprojAssemblyReference.cache
+c:\Users\user\source\repos\Liage3\GestionEtudiant\obj\Debug\GestionEtudiant.Properties.Resources.resources
+c:\Users\user\source\repos\Liage3\GestionEtudiant\obj\Debug\GestionEtudiant.csproj.GenerateResource.cache
+c:\Users\user\source\repos\Liage3\GestionEtudiant\obj\Debug\GestionEtudiant.csproj.CoreCompileInputs.cache
+c:\Users\user\source\repos\Liage3\GestionEtudiant\obj\Debug\GestionEtudiant.exe
+c:\Users\user\source\repos\Liage3\GestionEtudiant\obj\Debug\GestionEtudiant.pdb
